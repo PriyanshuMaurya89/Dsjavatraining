@@ -12,6 +12,4 @@ public class BMIcalculator {
         double BMI = weight / (height * height);
         System.out.print(" Your Body Mass Index (BMI) is " + BMI + " kg/m2");
     }
-
-
 }
